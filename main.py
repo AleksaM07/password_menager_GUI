@@ -83,7 +83,7 @@ label_user.grid(row=2, column=0)
 
 text_user = Entry(width=50)
 text_user.grid(row=2, column=1, columnspan=2)
-text_user.insert(0, "aleksam07@gmail.com")
+text_user.insert(0, "aleksa@gmail.com")
 
 # making a dropdown menu for text_user
 recent_entries = []
